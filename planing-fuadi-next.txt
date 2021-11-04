@@ -2,5 +2,7 @@ PLANING FAW KUN
 
 - LEARNING GITHUB
 * Video 3 
+  ^ Watch Video 4
+  ^ Watch Video 5
 - MAKE PROJECT
 * make mail project
