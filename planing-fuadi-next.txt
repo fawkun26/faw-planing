@@ -3,3 +3,4 @@ PLANING FAW KUN
 - LEARNING GITHUB
 * Video 3 
 - MAKE PROJECT
+* make mail project
